@@ -28,4 +28,4 @@
 ## MultiButton
 Позволяет добавить стандартные эффект клика для нескольких **Image** внутри кнопки
 Вместо стандартного **Button** используется **MultiButton**. В режиме **Debug** необходимо добавить все затрагиваемые кнопкой **Image** в массив **SourceImages** 
-![Alt text](Images/multi-button-3.png)
+![Alt text](Images/multi-button.png)
