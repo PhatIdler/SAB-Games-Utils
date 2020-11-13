@@ -14,7 +14,7 @@
 - **Center**
 - **Bottom**
 
-![Alt text](Images/camera-fitter-1.png)
+![Alt text](Images/camera-fitter-4.png)
 ### Aspect Fit Type
 Ограничивает автоматическое изменение размера камеры для разных разрешений
 - **Only Wide** (только для экранов шире чем 16:9)
