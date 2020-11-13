@@ -41,4 +41,4 @@
 ## TapUtils
 Различные методы для работы с тачем
 ### Использование
-![Alt text](Images/tap.png)
+![Alt text](Images/tap-utils-1.png)
