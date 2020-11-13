@@ -20,6 +20,7 @@
 - **Only Wide** (только для экранов шире чем 16:9)
 - **Only Not Wide** (только для экранов уже чем 4:3)
 - **Both** (для всех экранов)
+
 Пример для **Only Wide**
 ![Alt text](Images/camera-fitter-3.png "Only Wide")
 ### Default Aspect
