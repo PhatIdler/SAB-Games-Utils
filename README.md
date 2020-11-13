@@ -12,8 +12,6 @@
 Привязывает камеру к верху, центру или низу
 - **Top**
 - **Center**
-
-![Alt text](Images/camera-fitter-2.png)
 - **Bottom**
 
 ![Alt text](Images/camera-fitter-1.png)
